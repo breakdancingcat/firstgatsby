@@ -143,6 +143,7 @@ const IndexPage = () => {
         update in real-time.{" "}
         <span role="img" aria-label="Sunglasses smiley emoji">
           😎
+      jenny
         </span>
       </p>
       <ul style={listStyles}>
